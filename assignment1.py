@@ -1,3 +1,5 @@
+# Ciaran MacDermott
+
 # import necessary libraries
 import math
 import statistics
@@ -7,7 +9,7 @@ sales_week = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'
 
 
 def customer_data_input():
-    # initialising lists
+    # initialising list
 
     customer_data = []
 
@@ -25,10 +27,7 @@ def customer_data_input():
             customer_data = []
 
 
-# assigning output of input function
-
-
-# Analysis Function
+# Analysis Function to return dictionary of results
 
 
 def quick_analysis(user_data):
